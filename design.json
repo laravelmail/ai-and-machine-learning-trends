@@ -1,0 +1,1796 @@
+{
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "heading",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:70px 10px 33px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-line-height v-font-size\" style=\"margin: 0px; color: #002e9f; line-height: 120%; text-align: center; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 34px; font-weight: 400;\"><span style=\"line-height: 30px;\"><span style=\"line-height: 30px;\"><span style=\"line-height: 30px;\"><span style=\"line-height: 30px;\"><span style=\"line-height: 30px;\"><span style=\"line-height: 30px;\"><span style=\"line-height: 30px;\"><span style=\"line-height: 30px;\">Emerging AI and<br>Machine Learning Trends<br>You Need to Know</span></span></span></span></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_2",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/ai-and-machine-learning-trends/assets/1721240093999-Astronout_203D_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 33%;max-width: 198px;\" title=\"image\" width=\"198\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/ai-and-machine-learning-trends/assets/1721240093999-Astronout_203D_201.png",
+                    "width": 198,
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_3",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"center\">\n<!--[if mso]><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td align=\"center\" bgcolor=\"#002e9f\" style=\"padding:10px 20px;\" valign=\"top\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_2f8c5a96.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #ffffff; background-color: #002e9f; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:38%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;\" target=\"_blank\">\n<span class=\"v-line-height\" style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Read More</span></span>\n</a>\n<!--[if mso]></td></tr></table><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_heading_4",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:50px 10px 0px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-line-height v-font-size\" style=\"margin: 0px; color: #002e9f; line-height: 120%; text-align: center; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 30px; font-weight: 400;\"><span style=\"line-height: 32.4px;\"><span style=\"line-height: 32.4px;\"><span style=\"line-height: 32.4px;\"><span style=\"line-height: 32.4px;\"><span style=\"line-height: 32.4px;\"><span style=\"line-height: 32.4px;\">Machine Learning<br>in Predictive Analytics</span></span></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_5",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 90px 20px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Understand the role of ML in forecasting trends and making data-driven decisions.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "600px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "url(assets/1721239988259-Group_2015.png)",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "heading",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:25px 10px 0px 25px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-line-height v-font-size\" style=\"margin: 0px; color: #002e9f; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 22px; font-weight: 400;\"><span>Welcome to our latest newsletter featuring updates on AI and Machine Learning Trends!</span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_2",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px 15px 10px 25px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Explore the transformative impact of AI and Machine Learning on the Technology industry in our latest newsletter.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_3",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 25px 35px 10px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"right\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"right\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/ai-and-machine-learning-trends/assets/1721240796466-Arrow_201_20_Stroke_.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 13%;max-width: 34.45px;\" title=\"image\" width=\"34.45\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/ai-and-machine-learning-trends/assets/1721240796466-Arrow_201_20_Stroke_.png",
+                    "width": 34,
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "300px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/ai-and-machine-learning-trends/assets/1721240878052-Mask_20group.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 280px;\" title=\"image\" width=\"280\"></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/ai-and-machine-learning-trends/assets/1721240878052-Mask_20group.png",
+                    "width": 280,
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "300px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_2",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "url(assets/1721240673031-Group_2015c.png)",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "heading",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:40px 10px 0px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-line-height v-font-size\" style=\"margin: 0px; color: #002e9f; line-height: 120%; text-align: center; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 22px; font-weight: 400;\"><span>Explore cutting-edge developments shaping the future of AI and Machine Learning.</span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 60px 20px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Welcome to our Newsletter featuring the latest AI and Machine Learning trends in Technology.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "600px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_3",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "url(assets/1721240974027-Group_2015bh.png)",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          5,
+          1,
+          6
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #002e9f;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 10px solid #ffffff;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:40px 10px 0px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-line-height v-font-size\" style=\"font-size: 14px; color: #f1c40f; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"line-height: 19.6px; font-family: Raleway, sans-serif;\"><strong><span style=\"font-size: 24px; line-height: 33.6px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 24px; line-height: 33.6px;\"><span style=\"font-size: 24px; line-height: 33.6px;\">Basic&nbsp; &nbsp; &nbsp; </span></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong></span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-line-height v-font-size\" style=\"font-size: 14px; color: #ffffff; line-height: 180%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp;</span> This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp;</span> This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-size: 20px; line-height: 36px; color: #000000; font-family: Montserrat, sans-serif;\"><strong><span style=\"color: #ffffff; line-height: 36px;\">$200</span>&nbsp; </strong><span style=\"text-decoration: line-through; line-height: 36px; color: #f1c40f;\"><span style=\"font-size: 16px; line-height: 28.8px;\">$250</span></span></span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"center\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_9fc44c42.bin\" style=\"height:37px; v-text-anchor:middle; width:156px;\" arcsize=\"11%\"  stroke=\"f\" fillcolor=\"#dde5f2\"><w:anchorlock/><center style=\"color:#002e9f;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_9fc44c42.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #002e9f; background-color: #dde5f2; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:64%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;\" target=\"_blank\">\n<span class=\"v-line-height\" style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Buy Now</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "rgb(0, 46, 159)",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "274.02px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/ai-and-machine-learning-trends/assets/1676455414092-bg.jpg\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 0%;max-width: 0px;\" title=\"image\"></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/ai-and-machine-learning-trends/assets/1676455414092-bg.jpg",
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "49.98px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #002e9f;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 10px solid #ffffff;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_6\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:40px 10px 0px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-line-height v-font-size\" style=\"font-size: 14px; color: #f1c40f; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"line-height: 19.6px; font-family: Raleway, sans-serif;\"><strong><span style=\"font-size: 24px; line-height: 33.6px;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"line-height: 19.6px;\">&nbsp; &nbsp;Standard </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></strong></span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_7\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-line-height v-font-size\" style=\"font-size: 14px; color: #ffffff; line-height: 180%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a </span>&nbsp;This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-family: Montserrat, sans-serif; line-height: 25.2px;\"><span style=\"font-size: 20px; line-height: 36px;\">\u272a&nbsp; </span>This is a new Text block</span></p>\n<p style=\"font-size: 14px; line-height: 180%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-size: 20px; line-height: 36px; color: #ffffff; font-family: Montserrat, sans-serif;\"><strong>$300.00 &nbsp;</strong><span style=\"text-decoration: line-through; line-height: 28.8px; font-size: 16px; color: #f1c40f;\">$380</span></span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 60px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"center\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_9fc44c42.bin\" style=\"height:37px; v-text-anchor:middle; width:158px;\" arcsize=\"11%\"  stroke=\"f\" fillcolor=\"#dde5f2\"><w:anchorlock/><center style=\"color:#002e9f;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_9fc44c42.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #002e9f; background-color: #dde5f2; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:64%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;\" target=\"_blank\">\n<span class=\"v-line-height\" style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Buy Now</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "rgb(0, 46, 159)",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_3",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "276px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_4",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          12
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/ai-and-machine-learning-trends/assets/1721241494323-Group_2015vh.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 600px;\" title=\"image\" width=\"600\"></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/ai-and-machine-learning-trends/assets/1721241494323-Group_2015vh.png",
+                    "width": 600,
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": ""
+              },
+              "padding": "0px",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_5",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_social_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div align=\"center\" style=\"direction: ltr;\">\n<div style=\"display: table; max-width:167px;\">\n<!--[if (mso)|(IE)]><table width=\"167\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse:collapse;\" align=\"center\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:167px;\"><tr><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_0c984410.bin\" target=\"_blank\" title=\"Facebook\">\n<img alt=\"Facebook\" src=\"/static/templates/ai-and-machine-learning-trends/assets/facebook.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Facebook\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"https://www.linkedin.com/company/laravelmail/mycompany/\" target=\"_blank\" title=\"LinkedIn\">\n<img alt=\"LinkedIn\" src=\"/static/templates/ai-and-machine-learning-trends/assets/linkedin.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"LinkedIn\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_9fd8adc6.bin\" target=\"_blank\" title=\"Instagram\">\n<img alt=\"Instagram\" src=\"/static/templates/ai-and-machine-learning-trends/assets/instagram.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Instagram\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 0px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_de62a5c7.bin\" target=\"_blank\" title=\"X\">\n<img alt=\"X\" src=\"/static/templates/ai-and-machine-learning-trends/assets/x.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"X\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/ai-and-machine-learning-trends/assets/facebook.png",
+                    "width": 32,
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_2",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_8\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 100px 30px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-line-height v-font-size\" style=\"font-size: 14px; line-height: 170%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 170%;\">UNSUBSCRIBE &nbsp; | &nbsp; PRIVACY POLICY &nbsp; | &nbsp; WEB</p>\n<p style=\"font-size: 14px; line-height: 170%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 170%;\">Welcome to our exclusive newsletter on the latest AI and Machine Learning trends. Stay updated with the significant developments shaping various industries.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_3",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Raleway',sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>&nbsp;</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "600px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_6",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      }
+    ],
+    "values": {
+      "color": "rgb(0, 0, 0)",
+      "headingType": "",
+      "fontFamily": {},
+      "fontSize": "",
+      "textAlign": "",
+      "lineHeight": "",
+      "displayCondition": null,
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      },
+      "selectable": true,
+      "draggable": true,
+      "duplicatable": true,
+      "deletable": true,
+      "hideable": false,
+      "text": "",
+      "size": {
+        "autoWidth": true,
+        "width": ""
+      },
+      "padding": "0px",
+      "border": {
+        "borderBottom": "",
+        "borderLeft": "",
+        "borderRight": "",
+        "borderTop": ""
+      },
+      "borderRadius": "",
+      "calculatedWidth": null,
+      "calculatedHeight": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(236, 240, 241)",
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": false,
+        "repeat": false,
+        "center": true,
+        "cover": false
+      },
+      "contentWidth": "500px",
+      "contentAlign": "center",
+      "preheaderText": "",
+      "columns": false,
+      "hideDesktop": false
+    }
+  },
+  "counters": {
+    "u_column": 9,
+    "u_row": 6,
+    "u_content_button": 0,
+    "u_content_heading": 4,
+    "u_content_text": 7,
+    "u_content_image": 6,
+    "u_content_menu": 0
+  },
+  "schemaVersion": 16
+}
